@@ -1,10 +1,7 @@
 # IncomeExpenseTracker
 Income and Expense Tracker
-
-# IncomeExpenseTracker
-- https://tracker-navy-five.vercel.app/
 ## Public Url
-
+- https://tracker-navy-five.vercel.app/
 ## Client
 - ReactJs
 - ChartJs
